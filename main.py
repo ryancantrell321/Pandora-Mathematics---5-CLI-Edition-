@@ -83,7 +83,7 @@ Press the respective numbers for their respective chapters to get their question
 # Introducing the program, its licence, its contents
 print()
 print("Welcome to Pandora Mathematics - 5, an interactive mathematics program for 5th graders!")
-print("Version: 1.0")
+print("Version: 1.0 (Python)")
 
 
 cc_license()
