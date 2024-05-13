@@ -1,4 +1,4 @@
-Pandora Mathematics - 5 (CLI Edition) © 2023 by Pandora Dynamics, Pandora International Education, and Farhan Nadim Iqbal is licensed under CC BY-NC-ND 4.0. 
+Pandora Mathematics - 5 (CLI Edition) v1.0 [Python] © 2023 by Pandora Dynamics, Pandora International Education, and Farhan Nadim Iqbal is licensed under CC BY-NC-ND 4.0. 
 To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/
 
 Summary of CC BY-NC-ND 4.0:
