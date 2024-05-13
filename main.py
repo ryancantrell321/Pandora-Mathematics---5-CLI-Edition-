@@ -58,7 +58,7 @@ def cc_license():
     :return:
     """
 
-    creative_commons_license = "LICENSE.txt"
+    creative_commons_license = "https://pandora-dynamics.rf.gd/software-licenses/pandora-mathematics-5-cli-python/LICENSE.html"
     webbrowser.open(creative_commons_license)
 
 
